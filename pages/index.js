@@ -1,5 +1,10 @@
 function Home() {
-  return <h1>Nicole, eu te amo. Se você me ama, sorreia. :)</h1>;
+  return (
+    <h1>
+      Esse é um espaço para programadores que amam a área e querem aprender como
+      realmente a tecnologia funciona!
+    </h1>
+  );
 }
 
 export default Home;
